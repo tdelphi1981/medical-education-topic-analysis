@@ -1,0 +1,21 @@
+% Coherence comparison plot
+\begin{tikzpicture}
+\begin{axis}[
+    width=10cm,
+    height=7cm,
+    xlabel={Number of Topics},
+    ylabel={c\_v Coherence},
+    legend pos=south east,
+    grid=major,
+    xtick={5,10,15,20,25},
+    ymin=0,
+    ymax=1,
+]
+\addplot[ldacolor, thick, mark=*] coordinates {(5, 0.4035) (10, 0.4235) (15, 0.4298) (20, 0.4525) (25, 0.4539)};
+\addlegendentry{LDA}
+\addplot[nmfcolor, thick, mark=*] coordinates {(5, 0.4696) (10, 0.4971) (15, 0.5136) (20, 0.5084) (25, 0.5043)};
+\addlegendentry{NMF}
+\addplot[bertopiccolor, thick, mark=*] coordinates {(5, 0.7162) (10, 0.8748) (15, 0.7759) (20, 0.7322) (25, 0.7237)};
+\addlegendentry{BERTopic}
+\end{axis}
+\end{tikzpicture}

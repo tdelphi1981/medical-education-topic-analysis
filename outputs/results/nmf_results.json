@@ -1,0 +1,1257 @@
+{
+  "5": {
+    "num_topics": 5,
+    "topics": [
+      {
+        "id": 0,
+        "words": [
+          "student",
+          "year",
+          "medical_school",
+          "learn",
+          "course",
+          "experience",
+          "group",
+          "clinical",
+          "score",
+          "teaching"
+        ],
+        "formatted": "student, year, medical_school, learn, course, experience, group, clinical, score, teaching"
+      },
+      {
+        "id": 1,
+        "words": [
+          "training",
+          "program",
+          "trainee",
+          "graduate",
+          "survey",
+          "skill",
+          "train",
+          "residency",
+          "year",
+          "surgical"
+        ],
+        "formatted": "training, program, trainee, graduate, survey, skill, train, residency, year, surgical"
+      },
+      {
+        "id": 2,
+        "words": [
+          "patient",
+          "care",
+          "physician",
+          "practice",
+          "clinical",
+          "health",
+          "experience",
+          "improve",
+          "treatment",
+          "communication"
+        ],
+        "formatted": "patient, care, physician, practice, clinical, health, experience, improve, treatment, communication"
+      },
+      {
+        "id": 3,
+        "words": [
+          "resident",
+          "program",
+          "year",
+          "graduate",
+          "residency",
+          "survey",
+          "faculty",
+          "score",
+          "increase",
+          "case"
+        ],
+        "formatted": "resident, program, year, graduate, residency, survey, faculty, score, increase, case"
+      },
+      {
+        "id": 4,
+        "words": [
+          "clinical",
+          "research",
+          "include",
+          "practice",
+          "assessment",
+          "base",
+          "knowledge",
+          "learn",
+          "participant",
+          "teaching"
+        ],
+        "formatted": "clinical, research, include, practice, assessment, base, knowledge, learn, participant, teaching"
+      }
+    ],
+    "coherence": {
+      "c_v": 0.4695914729802658,
+      "c_npmi": 0.030023817109917326,
+      "u_mass": -1.5066884997347874
+    },
+    "diversity": 0.74
+  },
+  "10": {
+    "num_topics": 10,
+    "topics": [
+      {
+        "id": 0,
+        "words": [
+          "student",
+          "year",
+          "medical_school",
+          "experience",
+          "survey",
+          "undergraduate",
+          "course",
+          "perception",
+          "questionnaire",
+          "learn"
+        ],
+        "formatted": "student, year, medical_school, experience, survey, undergraduate, course, perception, questionnaire, learn"
+      },
+      {
+        "id": 1,
+        "words": [
+          "research",
+          "include",
+          "article",
+          "identify",
+          "review",
+          "publication",
+          "conduct",
+          "academic",
+          "analysis",
+          "datum"
+        ],
+        "formatted": "research, include, article, identify, review, publication, conduct, academic, analysis, datum"
+      },
+      {
+        "id": 2,
+        "words": [
+          "patient",
+          "care",
+          "communication",
+          "outcome",
+          "treatment",
+          "improve",
+          "include",
+          "experience",
+          "hospital",
+          "intervention"
+        ],
+        "formatted": "patient, care, communication, outcome, treatment, improve, include, experience, hospital, intervention"
+      },
+      {
+        "id": 3,
+        "words": [
+          "resident",
+          "graduate",
+          "survey",
+          "residency",
+          "year",
+          "faculty",
+          "report",
+          "case",
+          "increase",
+          "residency_program"
+        ],
+        "formatted": "resident, graduate, survey, residency, year, faculty, report, case, increase, residency_program"
+      },
+      {
+        "id": 4,
+        "words": [
+          "learn",
+          "teaching",
+          "curriculum",
+          "learning",
+          "base",
+          "course",
+          "assessment",
+          "educational",
+          "skill",
+          "feedback"
+        ],
+        "formatted": "learn, teaching, curriculum, learning, base, course, assessment, educational, skill, feedback"
+      },
+      {
+        "id": 5,
+        "words": [
+          "training",
+          "trainee",
+          "skill",
+          "surgical",
+          "simulation",
+          "train",
+          "participant",
+          "need",
+          "survey",
+          "experience"
+        ],
+        "formatted": "training, trainee, skill, surgical, simulation, train, participant, need, survey, experience"
+      },
+      {
+        "id": 6,
+        "words": [
+          "score",
+          "group",
+          "knowledge",
+          "performance",
+          "test",
+          "participant",
+          "compare",
+          "high",
+          "assessment",
+          "assess"
+        ],
+        "formatted": "score, group, knowledge, performance, test, participant, compare, high, assessment, assess"
+      },
+      {
+        "id": 7,
+        "words": [
+          "program",
+          "graduate",
+          "year",
+          "residency",
+          "applicant",
+          "residency_program",
+          "survey",
+          "faculty",
+          "interview",
+          "include"
+        ],
+        "formatted": "program, graduate, year, residency, applicant, residency_program, survey, faculty, interview, include"
+      },
+      {
+        "id": 8,
+        "words": [
+          "clinical",
+          "practice",
+          "skill",
+          "case",
+          "experience",
+          "performance",
+          "clerkship",
+          "examination",
+          "setting",
+          "assessment"
+        ],
+        "formatted": "clinical, practice, skill, case, experience, performance, clerkship, examination, setting, assessment"
+      },
+      {
+        "id": 9,
+        "words": [
+          "physician",
+          "practice",
+          "health",
+          "care",
+          "system",
+          "include",
+          "need",
+          "knowledge",
+          "medicine",
+          "professional"
+        ],
+        "formatted": "physician, practice, health, care, system, include, need, knowledge, medicine, professional"
+      }
+    ],
+    "coherence": {
+      "c_v": 0.4970527361108921,
+      "c_npmi": 0.04376722316014566,
+      "u_mass": -1.5492208491179935
+    },
+    "diversity": 0.72
+  },
+  "15": {
+    "num_topics": 15,
+    "topics": [
+      {
+        "id": 0,
+        "words": [
+          "student",
+          "medical_school",
+          "experience",
+          "year",
+          "undergraduate",
+          "perception",
+          "survey",
+          "questionnaire",
+          "university",
+          "clerkship"
+        ],
+        "formatted": "student, medical_school, experience, year, undergraduate, perception, survey, questionnaire, university, clerkship"
+      },
+      {
+        "id": 1,
+        "words": [
+          "resident",
+          "residency",
+          "survey",
+          "faculty",
+          "residency_program",
+          "graduate",
+          "report",
+          "experience",
+          "accreditation_council",
+          "pediatric"
+        ],
+        "formatted": "resident, residency, survey, faculty, residency_program, graduate, report, experience, accreditation_council, pediatric"
+      },
+      {
+        "id": 2,
+        "words": [
+          "patient",
+          "care",
+          "communication",
+          "treatment",
+          "improve",
+          "outcome",
+          "hospital",
+          "experience",
+          "center",
+          "provide"
+        ],
+        "formatted": "patient, care, communication, treatment, improve, outcome, hospital, experience, center, provide"
+      },
+      {
+        "id": 3,
+        "words": [
+          "health",
+          "include",
+          "system",
+          "care",
+          "identify",
+          "need",
+          "professional",
+          "support",
+          "community",
+          "educational"
+        ],
+        "formatted": "health, include, system, care, identify, need, professional, support, community, educational"
+      },
+      {
+        "id": 4,
+        "words": [
+          "learn",
+          "teaching",
+          "learning",
+          "online",
+          "teach",
+          "base",
+          "educational",
+          "learner",
+          "course",
+          "teacher"
+        ],
+        "formatted": "learn, teaching, learning, online, teach, base, educational, learner, course, teacher"
+      },
+      {
+        "id": 5,
+        "words": [
+          "training",
+          "trainee",
+          "skill",
+          "simulation",
+          "train",
+          "surgical",
+          "participant",
+          "need",
+          "improve",
+          "experience"
+        ],
+        "formatted": "training, trainee, skill, simulation, train, surgical, participant, need, improve, experience"
+      },
+      {
+        "id": 6,
+        "words": [
+          "score",
+          "knowledge",
+          "question",
+          "performance",
+          "test",
+          "participant",
+          "high",
+          "assess",
+          "level",
+          "mean"
+        ],
+        "formatted": "score, knowledge, question, performance, test, participant, high, assess, level, mean"
+      },
+      {
+        "id": 7,
+        "words": [
+          "program",
+          "graduate",
+          "residency_program",
+          "survey",
+          "faculty",
+          "residency",
+          "applicant",
+          "interview",
+          "website",
+          "program_director"
+        ],
+        "formatted": "program, graduate, residency_program, survey, faculty, residency, applicant, interview, website, program_director"
+      },
+      {
+        "id": 8,
+        "words": [
+          "clinical",
+          "practice",
+          "skill",
+          "experience",
+          "setting",
+          "clerkship",
+          "case",
+          "provide",
+          "examination",
+          "clinician"
+        ],
+        "formatted": "clinical, practice, skill, experience, setting, clerkship, case, provide, examination, clinician"
+      },
+      {
+        "id": 9,
+        "words": [
+          "physician",
+          "practice",
+          "knowledge",
+          "medicine",
+          "survey",
+          "rural",
+          "primary_care",
+          "participant",
+          "work",
+          "family"
+        ],
+        "formatted": "physician, practice, knowledge, medicine, survey, rural, primary_care, participant, work, family"
+      },
+      {
+        "id": 10,
+        "words": [
+          "assessment",
+          "feedback",
+          "competency",
+          "performance",
+          "trainee",
+          "evaluation",
+          "assess",
+          "skill",
+          "faculty",
+          "epa"
+        ],
+        "formatted": "assessment, feedback, competency, performance, trainee, evaluation, assess, skill, faculty, epa"
+      },
+      {
+        "id": 11,
+        "words": [
+          "curriculum",
+          "course",
+          "medical_school",
+          "knowledge",
+          "skill",
+          "survey",
+          "develop",
+          "faculty",
+          "content",
+          "medicine"
+        ],
+        "formatted": "curriculum, course, medical_school, knowledge, skill, survey, develop, faculty, content, medicine"
+      },
+      {
+        "id": 12,
+        "words": [
+          "year",
+          "case",
+          "increase",
+          "graduate",
+          "number",
+          "trainee",
+          "report",
+          "time",
+          "datum",
+          "academic"
+        ],
+        "formatted": "year, case, increase, graduate, number, trainee, report, time, datum, academic"
+      },
+      {
+        "id": 13,
+        "words": [
+          "research",
+          "article",
+          "publication",
+          "conduct",
+          "include",
+          "academic",
+          "identify",
+          "review",
+          "journal",
+          "publish"
+        ],
+        "formatted": "research, article, publication, conduct, include, academic, identify, review, journal, publish"
+      },
+      {
+        "id": 14,
+        "words": [
+          "group",
+          "intervention",
+          "compare",
+          "participant",
+          "control_group",
+          "test",
+          "difference",
+          "improve",
+          "receive",
+          "time"
+        ],
+        "formatted": "group, intervention, compare, participant, control_group, test, difference, improve, receive, time"
+      }
+    ],
+    "coherence": {
+      "c_v": 0.5135986189870761,
+      "c_npmi": 0.05595952592688436,
+      "u_mass": -1.758443323587245
+    },
+    "diversity": 0.6933333333333334
+  },
+  "20": {
+    "num_topics": 20,
+    "topics": [
+      {
+        "id": 0,
+        "words": [
+          "student",
+          "medical_school",
+          "experience",
+          "year",
+          "undergraduate",
+          "perception",
+          "survey",
+          "questionnaire",
+          "university",
+          "clerkship"
+        ],
+        "formatted": "student, medical_school, experience, year, undergraduate, perception, survey, questionnaire, university, clerkship"
+      },
+      {
+        "id": 1,
+        "words": [
+          "resident",
+          "survey",
+          "residency",
+          "faculty",
+          "residency_program",
+          "graduate",
+          "report",
+          "experience",
+          "accreditation_council",
+          "pediatric"
+        ],
+        "formatted": "resident, survey, residency, faculty, residency_program, graduate, report, experience, accreditation_council, pediatric"
+      },
+      {
+        "id": 2,
+        "words": [
+          "patient",
+          "care",
+          "communication",
+          "treatment",
+          "improve",
+          "outcome",
+          "hospital",
+          "experience",
+          "center",
+          "provide"
+        ],
+        "formatted": "patient, care, communication, treatment, improve, outcome, hospital, experience, center, provide"
+      },
+      {
+        "id": 3,
+        "words": [
+          "curriculum",
+          "medical_school",
+          "knowledge",
+          "develop",
+          "faculty",
+          "survey",
+          "need",
+          "curricula",
+          "development",
+          "competency"
+        ],
+        "formatted": "curriculum, medical_school, knowledge, develop, faculty, survey, need, curricula, development, competency"
+      },
+      {
+        "id": 4,
+        "words": [
+          "include",
+          "identify",
+          "educational",
+          "review",
+          "model",
+          "use",
+          "support",
+          "analysis",
+          "article",
+          "process"
+        ],
+        "formatted": "include, identify, educational, review, model, use, support, analysis, article, process"
+      },
+      {
+        "id": 5,
+        "words": [
+          "training",
+          "skill",
+          "simulation",
+          "train",
+          "surgical",
+          "need",
+          "residency",
+          "improve",
+          "postgraduate",
+          "perform"
+        ],
+        "formatted": "training, skill, simulation, train, surgical, need, residency, improve, postgraduate, perform"
+      },
+      {
+        "id": 6,
+        "words": [
+          "score",
+          "knowledge",
+          "performance",
+          "question",
+          "test",
+          "high",
+          "assess",
+          "level",
+          "mean",
+          "compare"
+        ],
+        "formatted": "score, knowledge, performance, question, test, high, assess, level, mean, compare"
+      },
+      {
+        "id": 7,
+        "words": [
+          "program",
+          "graduate",
+          "residency_program",
+          "survey",
+          "residency",
+          "applicant",
+          "faculty",
+          "interview",
+          "website",
+          "program_director"
+        ],
+        "formatted": "program, graduate, residency_program, survey, residency, applicant, faculty, interview, website, program_director"
+      },
+      {
+        "id": 8,
+        "words": [
+          "clinical",
+          "skill",
+          "experience",
+          "clerkship",
+          "setting",
+          "case",
+          "simulation",
+          "examination",
+          "rotation",
+          "osce"
+        ],
+        "formatted": "clinical, skill, experience, clerkship, setting, case, simulation, examination, rotation, osce"
+      },
+      {
+        "id": 9,
+        "words": [
+          "physician",
+          "medicine",
+          "family",
+          "primary_care",
+          "work",
+          "survey",
+          "specialty",
+          "continue",
+          "need",
+          "provide"
+        ],
+        "formatted": "physician, medicine, family, primary_care, work, survey, specialty, continue, need, provide"
+      },
+      {
+        "id": 10,
+        "words": [
+          "assessment",
+          "feedback",
+          "competency",
+          "performance",
+          "skill",
+          "evaluation",
+          "assess",
+          "self",
+          "epa",
+          "faculty"
+        ],
+        "formatted": "assessment, feedback, competency, performance, skill, evaluation, assess, self, epa, faculty"
+      },
+      {
+        "id": 11,
+        "words": [
+          "research",
+          "publication",
+          "academic",
+          "conduct",
+          "project",
+          "article",
+          "researcher",
+          "journal",
+          "publish",
+          "scientific"
+        ],
+        "formatted": "research, publication, academic, conduct, project, article, researcher, journal, publish, scientific"
+      },
+      {
+        "id": 12,
+        "words": [
+          "year",
+          "case",
+          "increase",
+          "graduate",
+          "number",
+          "medical_school",
+          "academic",
+          "time",
+          "compare",
+          "datum"
+        ],
+        "formatted": "year, case, increase, graduate, number, medical_school, academic, time, compare, datum"
+      },
+      {
+        "id": 13,
+        "words": [
+          "health",
+          "system",
+          "care",
+          "community",
+          "professional",
+          "service",
+          "health_care",
+          "need",
+          "healthcare",
+          "population"
+        ],
+        "formatted": "health, system, care, community, professional, service, health_care, need, healthcare, population"
+      },
+      {
+        "id": 14,
+        "words": [
+          "group",
+          "intervention",
+          "participant",
+          "compare",
+          "control_group",
+          "test",
+          "difference",
+          "improve",
+          "receive",
+          "simulation"
+        ],
+        "formatted": "group, intervention, participant, compare, control_group, test, difference, improve, receive, simulation"
+      },
+      {
+        "id": 15,
+        "words": [
+          "trainee",
+          "experience",
+          "survey",
+          "surgical",
+          "report",
+          "participant",
+          "fellow",
+          "faculty",
+          "impact",
+          "complete"
+        ],
+        "formatted": "trainee, experience, survey, surgical, report, participant, fellow, faculty, impact, complete"
+      },
+      {
+        "id": 16,
+        "words": [
+          "practice",
+          "knowledge",
+          "rural",
+          "general",
+          "participant",
+          "survey",
+          "graduate",
+          "care",
+          "medicine",
+          "gps"
+        ],
+        "formatted": "practice, knowledge, rural, general, participant, survey, graduate, care, medicine, gps"
+      },
+      {
+        "id": 17,
+        "words": [
+          "course",
+          "participant",
+          "knowledge",
+          "online",
+          "skill",
+          "increase",
+          "confidence",
+          "improve",
+          "evaluation",
+          "survey"
+        ],
+        "formatted": "course, participant, knowledge, online, skill, increase, confidence, improve, evaluation, survey"
+      },
+      {
+        "id": 18,
+        "words": [
+          "teaching",
+          "teach",
+          "teacher",
+          "skill",
+          "faculty",
+          "feedback",
+          "model",
+          "online",
+          "session",
+          "undergraduate"
+        ],
+        "formatted": "teaching, teach, teacher, skill, faculty, feedback, model, online, session, undergraduate"
+      },
+      {
+        "id": 19,
+        "words": [
+          "learn",
+          "learning",
+          "base",
+          "online",
+          "learner",
+          "educational",
+          "experience",
+          "approach",
+          "outcome",
+          "case"
+        ],
+        "formatted": "learn, learning, base, online, learner, educational, experience, approach, outcome, case"
+      }
+    ],
+    "coherence": {
+      "c_v": 0.5084184265462557,
+      "c_npmi": 0.05577310783607912,
+      "u_mass": -1.8342617173976794
+    },
+    "diversity": 0.65
+  },
+  "25": {
+    "num_topics": 25,
+    "topics": [
+      {
+        "id": 0,
+        "words": [
+          "student",
+          "medical_school",
+          "experience",
+          "undergraduate",
+          "perception",
+          "questionnaire",
+          "clerkship",
+          "university",
+          "survey",
+          "participate"
+        ],
+        "formatted": "student, medical_school, experience, undergraduate, perception, questionnaire, clerkship, university, survey, participate"
+      },
+      {
+        "id": 1,
+        "words": [
+          "resident",
+          "residency",
+          "survey",
+          "faculty",
+          "graduate",
+          "residency_program",
+          "report",
+          "accreditation_council",
+          "pediatric",
+          "surgical"
+        ],
+        "formatted": "resident, residency, survey, faculty, graduate, residency_program, report, accreditation_council, pediatric, surgical"
+      },
+      {
+        "id": 2,
+        "words": [
+          "patient",
+          "communication",
+          "treatment",
+          "outcome",
+          "doctor",
+          "improve",
+          "intervention",
+          "encounter",
+          "management",
+          "disease"
+        ],
+        "formatted": "patient, communication, treatment, outcome, doctor, improve, intervention, encounter, management, disease"
+      },
+      {
+        "id": 3,
+        "words": [
+          "case",
+          "base",
+          "surgical",
+          "report",
+          "perform",
+          "procedure",
+          "number",
+          "increase",
+          "surgery",
+          "fellow"
+        ],
+        "formatted": "case, base, surgical, report, perform, procedure, number, increase, surgery, fellow"
+      },
+      {
+        "id": 4,
+        "words": [
+          "include",
+          "identify",
+          "review",
+          "educational",
+          "model",
+          "use",
+          "article",
+          "process",
+          "support",
+          "analysis"
+        ],
+        "formatted": "include, identify, review, educational, model, use, article, process, support, analysis"
+      },
+      {
+        "id": 5,
+        "words": [
+          "training",
+          "train",
+          "need",
+          "residency",
+          "postgraduate",
+          "surgical",
+          "programme",
+          "mandatory",
+          "include",
+          "fellowship"
+        ],
+        "formatted": "training, train, need, residency, postgraduate, surgical, programme, mandatory, include, fellowship"
+      },
+      {
+        "id": 6,
+        "words": [
+          "score",
+          "performance",
+          "high",
+          "test",
+          "question",
+          "compare",
+          "mean",
+          "examination",
+          "assess",
+          "level"
+        ],
+        "formatted": "score, performance, high, test, question, compare, mean, examination, assess, level"
+      },
+      {
+        "id": 7,
+        "words": [
+          "program",
+          "graduate",
+          "residency_program",
+          "applicant",
+          "residency",
+          "faculty",
+          "survey",
+          "interview",
+          "program_director",
+          "website"
+        ],
+        "formatted": "program, graduate, residency_program, applicant, residency, faculty, survey, interview, program_director, website"
+      },
+      {
+        "id": 8,
+        "words": [
+          "clinical",
+          "experience",
+          "clerkship",
+          "setting",
+          "examination",
+          "rotation",
+          "osce",
+          "clinician",
+          "placement",
+          "performance"
+        ],
+        "formatted": "clinical, experience, clerkship, setting, examination, rotation, osce, clinician, placement, performance"
+      },
+      {
+        "id": 9,
+        "words": [
+          "physician",
+          "medicine",
+          "family",
+          "primary_care",
+          "work",
+          "specialty",
+          "continue",
+          "need",
+          "high",
+          "cme"
+        ],
+        "formatted": "physician, medicine, family, primary_care, work, specialty, continue, need, high, cme"
+      },
+      {
+        "id": 10,
+        "words": [
+          "assessment",
+          "feedback",
+          "competency",
+          "performance",
+          "epa",
+          "evaluation",
+          "assess",
+          "self",
+          "faculty",
+          "milestone"
+        ],
+        "formatted": "assessment, feedback, competency, performance, epa, evaluation, assess, self, faculty, milestone"
+      },
+      {
+        "id": 11,
+        "words": [
+          "research",
+          "publication",
+          "academic",
+          "conduct",
+          "project",
+          "researcher",
+          "journal",
+          "article",
+          "publish",
+          "scientific"
+        ],
+        "formatted": "research, publication, academic, conduct, project, researcher, journal, article, publish, scientific"
+      },
+      {
+        "id": 12,
+        "words": [
+          "year",
+          "increase",
+          "medical_school",
+          "graduate",
+          "academic",
+          "number",
+          "residency",
+          "time",
+          "datum",
+          "compare"
+        ],
+        "formatted": "year, increase, medical_school, graduate, academic, number, residency, time, datum, compare"
+      },
+      {
+        "id": 13,
+        "words": [
+          "health",
+          "system",
+          "community",
+          "professional",
+          "service",
+          "health_care",
+          "need",
+          "policy",
+          "population",
+          "healthcare"
+        ],
+        "formatted": "health, system, community, professional, service, health_care, need, policy, population, healthcare"
+      },
+      {
+        "id": 14,
+        "words": [
+          "group",
+          "intervention",
+          "compare",
+          "control_group",
+          "test",
+          "difference",
+          "improve",
+          "receive",
+          "time",
+          "base"
+        ],
+        "formatted": "group, intervention, compare, control_group, test, difference, improve, receive, time, base"
+      },
+      {
+        "id": 15,
+        "words": [
+          "curriculum",
+          "medical_school",
+          "faculty",
+          "develop",
+          "curricula",
+          "content",
+          "need",
+          "development",
+          "undergraduate",
+          "survey"
+        ],
+        "formatted": "curriculum, medical_school, faculty, develop, curricula, content, need, development, undergraduate, survey"
+      },
+      {
+        "id": 16,
+        "words": [
+          "practice",
+          "rural",
+          "general",
+          "graduate",
+          "medicine",
+          "base",
+          "gps",
+          "community",
+          "change",
+          "competency"
+        ],
+        "formatted": "practice, rural, general, graduate, medicine, base, gps, community, change, competency"
+      },
+      {
+        "id": 17,
+        "words": [
+          "course",
+          "online",
+          "evaluation",
+          "content",
+          "increase",
+          "medicine",
+          "improve",
+          "anatomy",
+          "include",
+          "offer"
+        ],
+        "formatted": "course, online, evaluation, content, increase, medicine, improve, anatomy, include, offer"
+      },
+      {
+        "id": 18,
+        "words": [
+          "teaching",
+          "teach",
+          "teacher",
+          "faculty",
+          "online",
+          "feedback",
+          "undergraduate",
+          "hospital",
+          "session",
+          "base"
+        ],
+        "formatted": "teaching, teach, teacher, faculty, online, feedback, undergraduate, hospital, session, base"
+      },
+      {
+        "id": 19,
+        "words": [
+          "learn",
+          "learning",
+          "online",
+          "base",
+          "learner",
+          "educational",
+          "approach",
+          "outcome",
+          "experience",
+          "objective"
+        ],
+        "formatted": "learn, learning, online, base, learner, educational, approach, outcome, experience, objective"
+      },
+      {
+        "id": 20,
+        "words": [
+          "knowledge",
+          "increase",
+          "improve",
+          "question",
+          "confidence",
+          "assess",
+          "test",
+          "level",
+          "survey",
+          "attitude"
+        ],
+        "formatted": "knowledge, increase, improve, question, confidence, assess, test, level, survey, attitude"
+      },
+      {
+        "id": 21,
+        "words": [
+          "trainee",
+          "surgical",
+          "experience",
+          "fellow",
+          "report",
+          "survey",
+          "faculty",
+          "supervisor",
+          "specialty",
+          "graduate"
+        ],
+        "formatted": "trainee, surgical, experience, fellow, report, survey, faculty, supervisor, specialty, graduate"
+      },
+      {
+        "id": 22,
+        "words": [
+          "skill",
+          "simulation",
+          "surgical",
+          "confidence",
+          "improve",
+          "develop",
+          "model",
+          "session",
+          "assess",
+          "simulation_base"
+        ],
+        "formatted": "skill, simulation, surgical, confidence, improve, develop, model, session, assess, simulation_base"
+      },
+      {
+        "id": 23,
+        "words": [
+          "care",
+          "provide",
+          "health_care",
+          "hospital",
+          "need",
+          "improve",
+          "quality",
+          "team",
+          "service",
+          "provider"
+        ],
+        "formatted": "care, provide, health_care, hospital, need, improve, quality, team, service, provider"
+      },
+      {
+        "id": 24,
+        "words": [
+          "participant",
+          "experience",
+          "survey",
+          "report",
+          "interview",
+          "complete",
+          "workshop",
+          "objective",
+          "design",
+          "perception"
+        ],
+        "formatted": "participant, experience, survey, report, interview, complete, workshop, objective, design, perception"
+      }
+    ],
+    "coherence": {
+      "c_v": 0.5042676501724226,
+      "c_npmi": 0.056867702989570106,
+      "u_mass": -1.9157322223642004
+    },
+    "diversity": 0.624
+  }
+}

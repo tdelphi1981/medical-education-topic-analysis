@@ -1,0 +1,254 @@
+{
+  "total_records": 52797,
+  "with_abstract": 47335,
+  "unique_journals": 3772,
+  "year_range": [
+    2010,
+    2026
+  ],
+  "year_distribution": [
+    {
+      "year": 2010,
+      "count": 1278
+    },
+    {
+      "year": 2011,
+      "count": 1284
+    },
+    {
+      "year": 2012,
+      "count": 1500
+    },
+    {
+      "year": 2013,
+      "count": 1657
+    },
+    {
+      "year": 2014,
+      "count": 2088
+    },
+    {
+      "year": 2015,
+      "count": 2319
+    },
+    {
+      "year": 2016,
+      "count": 2522
+    },
+    {
+      "year": 2017,
+      "count": 2777
+    },
+    {
+      "year": 2018,
+      "count": 2791
+    },
+    {
+      "year": 2019,
+      "count": 2381
+    },
+    {
+      "year": 2020,
+      "count": 4174
+    },
+    {
+      "year": 2021,
+      "count": 5007
+    },
+    {
+      "year": 2022,
+      "count": 5006
+    },
+    {
+      "year": 2023,
+      "count": 4966
+    },
+    {
+      "year": 2024,
+      "count": 5650
+    },
+    {
+      "year": 2025,
+      "count": 7143
+    },
+    {
+      "year": 2026,
+      "count": 165
+    }
+  ],
+  "abstract_char_length": {
+    "mean": 1682.5236294496672,
+    "median": 1718.0,
+    "std": 588.7255742868836,
+    "min": 3,
+    "max": 12280
+  },
+  "abstract_word_count": {
+    "mean": 237.63424527305378,
+    "median": 245.0
+  },
+  "top_journals": [
+    {
+      "journal": "BMC Med Educ",
+      "count": 3034
+    },
+    {
+      "journal": "Acad Med",
+      "count": 1837
+    },
+    {
+      "journal": "Cureus",
+      "count": 1764
+    },
+    {
+      "journal": "Med Teach",
+      "count": 1496
+    },
+    {
+      "journal": "BMJ Open",
+      "count": 1440
+    },
+    {
+      "journal": "Med Educ",
+      "count": 883
+    },
+    {
+      "journal": "Med Sci Educ",
+      "count": 824
+    },
+    {
+      "journal": "J Surg Educ",
+      "count": 791
+    },
+    {
+      "journal": "J Grad Med Educ",
+      "count": 731
+    },
+    {
+      "journal": "Adv Med Educ Pract",
+      "count": 599
+    },
+    {
+      "journal": "Med Educ Online",
+      "count": 588
+    },
+    {
+      "journal": "Anat Sci Educ",
+      "count": 550
+    },
+    {
+      "journal": "Postgrad Med J",
+      "count": 547
+    },
+    {
+      "journal": "J Med Educ Curric Dev",
+      "count": 482
+    },
+    {
+      "journal": "Teach Learn Med",
+      "count": 441
+    },
+    {
+      "journal": "JMIR Med Educ",
+      "count": 438
+    },
+    {
+      "journal": "MedEdPublish (2016)",
+      "count": 436
+    },
+    {
+      "journal": "J Gen Intern Med",
+      "count": 378
+    },
+    {
+      "journal": "Clin Teach",
+      "count": 366
+    },
+    {
+      "journal": "Adv Health Sci Educ Theory Pract",
+      "count": 365
+    }
+  ],
+  "publication_types": [
+    {
+      "publication_types": "Journal Article",
+      "count": 32999
+    },
+    {
+      "publication_types": "Journal Article; Review",
+      "count": 3870
+    },
+    {
+      "publication_types": "Journal Article; Research Support, Non-U.S. Gov't",
+      "count": 3367
+    },
+    {
+      "publication_types": "Editorial",
+      "count": 1258
+    },
+    {
+      "publication_types": "Letter",
+      "count": 1035
+    },
+    {
+      "publication_types": "Journal Article; Systematic Review",
+      "count": 700
+    },
+    {
+      "publication_types": "Comparative Study; Journal Article",
+      "count": 580
+    },
+    {
+      "publication_types": "Journal Article; Scoping Review",
+      "count": 544
+    },
+    {
+      "publication_types": "Journal Article; Randomized Controlled Trial",
+      "count": 514
+    },
+    {
+      "publication_types": "Comment; Letter",
+      "count": 506
+    },
+    {
+      "publication_types": "Case Reports; Journal Article",
+      "count": 437
+    },
+    {
+      "publication_types": "English Abstract; Journal Article",
+      "count": 415
+    },
+    {
+      "publication_types": "Journal Article; Observational Study",
+      "count": 387
+    },
+    {
+      "publication_types": "Comment; Journal Article",
+      "count": 346
+    },
+    {
+      "publication_types": "Journal Article; Multicenter Study",
+      "count": 317
+    },
+    {
+      "publication_types": "Historical Article; Journal Article",
+      "count": 309
+    },
+    {
+      "publication_types": "Evaluation Study; Journal Article",
+      "count": 270
+    },
+    {
+      "publication_types": "Journal Article; Research Support, N.I.H., Extramural",
+      "count": 265
+    },
+    {
+      "publication_types": "Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't",
+      "count": 231
+    },
+    {
+      "publication_types": "Journal Article; Research Support, Non-U.S. Gov't; Review",
+      "count": 228
+    }
+  ]
+}

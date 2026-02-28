@@ -1,0 +1,2 @@
+esearch -db pubmed -query ''medical education" [Title/Abstract]
+AND 2010:2025 [pdat]'

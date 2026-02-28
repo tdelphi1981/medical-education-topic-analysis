@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Models (too large for git)
+outputs/models/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
